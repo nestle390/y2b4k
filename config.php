@@ -1,8 +1,8 @@
 <?php
 define('APIKEY', 'AIzaSyDr2HMUCTae8a97CrQxHIWElvOubpbtz3o');
 define('GJ_CODE', 'HK');
-define('SITE_NAME', 'Nestle');
-define('TITLENAME', 'Nestle');
+define('SITE_NAME', 'NestleVideo');
+define('TITLENAME', 'NestleVideo');
 define('EN2DEKEY', 'Nestle.com');
 define('EMAIL', 'hd1831420646@gmail.com');
 define('NAME', 'MIBOSX');
