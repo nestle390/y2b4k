@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyDG4qAIQgzaZHr1J7nCnQLpn1UXljKQZx0');
+define('APIKEY', 'AIzaSyDr2HMUCTae8a97CrQxHIWElvOubpbtz3o');
 define('GJ_CODE', 'HK');
 define('SITE_NAME', 'Nestle');
 define('TITLENAME', 'Nestle');
